@@ -13,7 +13,7 @@ namespace WebApplication.Controllers
     {
         private static readonly string[] Test = new[]
         {
-            "Freezing", "Bracing", "Chilly"
+            "Freezing"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
